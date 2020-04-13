@@ -10,7 +10,7 @@ import com.bumptech.glide.module.AppGlideModule
 
 
 /**
- * Created by liyongpeng on 2020-04-06
+ * Created by lyp on 2020-04-06
  */
 @GlideModule
 class MyAppGlideModule : AppGlideModule() {

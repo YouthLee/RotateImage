@@ -5,6 +5,16 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <TextView
+        android:id="@+id/tv_full_screen"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="@string/text_full"
+        android:textColor="@android:color/white" />
+
     <com.youthlee.rotateimage.RotateImageView
         android:id="@+id/rotate_image_view"
         android:layout_width="match_parent"

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RotateImage</string>
+    <string name="text_full">FullScreen</string>
 </resources>
